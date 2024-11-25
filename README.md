@@ -33,6 +33,6 @@ Me considero un explorador de datos, es agradable descubrir y rescatar informaci
 
 ## Contacto
 
-| [<img src="images/imagen7.jpg" alt="Email" width="80"/>](mailto:juliandbrazil@gmail.com) | [<img src="images/imagen8.png" alt="LinkedIn" width="80"/>](https://www.linkedin.com/in/julian-david-baquero-pe%C3%B1a-72942a246/) |
+| [<img src="images/imagen7.jpg" alt="Email" width="40"/>](mailto:juliandbrazil@gmail.com) | [<img src="images/imagen8.png" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/julian-david-baquero-pe%C3%B1a-72942a246/) |
 | :--------------------------: | :-----------------------------: |
 | [Email](mailto:juliandbrazil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/julian-david-baquero-pe%C3%B1a-72942a246/) |
