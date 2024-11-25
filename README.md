@@ -36,16 +36,6 @@ Me considero un explorador de datos, es agradable descubrir y rescatar informaci
 | :----------------------: | :--------------------------: | :--------------------------: |
 | [R](https://www.r-project.org/other-docs.html) | [Stata](https://www.stata.com/features/documentation/) | [Eviews](https://www.eviews.com/Learning/index.html) |
 
-## Repositorios Destacados
-
-| ![ML_trips_NY](https://img.shields.io/github/stars/jdbaquero84/ML_trips_NY?style=social) | ![Proyecto-MVP-para-Plataforma-de-Videojuegos](https://img.shields.io/github/stars/jdbaquero84/Proyecto-MVP-para-Plataforma-de-Videojuegos?style=social) | ![Prevalencia-de-siniestros-viales-en-CABA-Buenos-Aires](https://img.shields.io/github/stars/jdbaquero84/Prevalencia-de-siniestros-viales-en-CABA-Buenos-Aires-?style=social) |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| **[ML_trips_NY](https://github.com/jdbaquero84/ML_trips_NY)**<br>Análisis de viajes en Nueva York utilizando Machine Learning. | **[Proyecto MVP para Plataforma de Videojuegos](https://github.com/jdbaquero84/Proyecto-MVP-para-Plataforma-de-Videojuegos)**<br>Desarrollo de un proyecto MVP para una plataforma de videojuegos. | **[Prevalencia de siniestros viales en CABA Buenos Aires](https://github.com/jdbaquero84/Prevalencia-de-siniestros-viales-en-CABA-Buenos-Aires-)**<br>Estudio sobre la prevalencia de siniestros viales en Buenos Aires. |
-
-| ![Asesoria-de-Inversion-en-Propiedades-de-Renta-Corta](https://img.shields.io/github/stars/jdbaquero84/Asesoria-de-Inversion-en-Propiedades-de-Renta-Corta?style=social) | ![Caracterizacion-de-los-autos-mas-demandados](https://img.shields.io/github/stars/jdbaquero84/Caracterizacion-de-los-autos-mas-demandados?style=social) | ![Repo6](https://img.shields.io/github/stars/jdbaquero84/Repo6?style=social) |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| **[Asesoria de Inversion en Propiedades de Renta Corta](https://github.com/jdbaquero84/Asesoria-de-Inversion-en-Propiedades-de-Renta-Corta)**<br>Asesoría para inversión en propiedades de renta corta. | **[Caracterización de los autos más demandados](https://github.com/jdbaquero84/Caracterizacion-de-los-autos-mas-demandados)**<br>Análisis de los autos más demandados en el mercado. | **[Tabla-de-amortizacion](https://github.com/jdbaquero84/Tabla-de-amortizacion)**<br>Deploy de una tabla de amortizacion, con un iterador de python, usando streamlit |
-
 
 ## Contacto
 
